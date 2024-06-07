@@ -1,0 +1,37 @@
+Cara Menjalankan Script ThersXJuna-Md Di Panel
+
+1. Masuk ke Files upload scriptnya
+
+2. Buat Folder di Create Directory 
+Nama Folder: sampah
+
+
+3. Klik titik tiga pada pojok kanan script
+yg telah di upload klik Unarchive
+
+4. Klik Folder scriptnya untuk cek isinya
+centang semua isi dalam Folder ThersXJuna-Md
+lalu pilih tombol move dibagian bawah
+terus tulis ../
+
+5. Setting di bagian Startup ubah (npm start)
+di Command Run dipaling bawah jadi (npm install)
+untuk install node_modules
+
+6. Setelah Console berubah stop otomatis karena
+module berhasil terinstall maka ubah Startup
+menjadi (node juna.js)
+
+//Untuk Pertama Yang Kali Connect Bot Dan Tidak Memiliki Session
+
+- Ubah browser menjadi situs dekstop
+- Jika sudah klik start/restart pada console
+- Tunggu tulisan Masukan no dengan awal 628
+- Lalu klik Type a command untuk memasukan nomor
+dengan awalan 628 seperti contoh 6285798045817 lalu klik enter
+- Masukan kode pada perangkat tertaut di wa kamu
+
+//Untuk Yang Memiliki Session
+-Klik Start/Restart Jika Sudah Menjalani Step 1-6
+
+#Tutor_By_AethersCode
